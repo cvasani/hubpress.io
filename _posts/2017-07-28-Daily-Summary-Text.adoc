@@ -1,0 +1,31 @@
+= Daily Summary Text
+
+==== Date : 28 -July -2017
+
+***
+
+===== OTBI Bugs
+* https://bug.oraclecorp.com/pls/bug/webbug_edit.edit_info_top?rptno=26534030[26534030] *More info requested*
+** Analyzed a bug because termed as regression. Unable to find the actual info on fusion screen. I have requested QA to help me with actual use-case document and reproduction steps
+* https://bug.oraclecorp.com/pls/bug/webbug_edit.edit_info_top?report_title=&rptno=26537170[26537170] *Closed*
+** Got the lock for DFF file which I was not able to get hold due to locked by Jyothi. This is checked-in to HCM Rule file. Requested CR to merge it to central rule file.
+
+
+***
+
+
+
+===== Other task
+* PB9C3
+** Requested Kavitha to give us environment details for Sanity testing.
+*** Bugs to be validated for *PB9C3*
+. OTBI Bug : https://bug.oraclecorp.com/pls/bug/webbug_edit.edit_info_top?rptno=26475238&rptno_count=1&pos=1&report_title=&query_id=-1[26475238]
+. OTBI Bug : http://bug.us.oracle.com/pls/bug/webbug_edit.edit_info_top?report_title=&rptno=26528289&query_id=402900[26528289]
+
+
+***
+===== Dependency  Bugs
+* https://bug.oraclecorp.com/pls/bug/webbug_edit.edit_info_top?report_title=&rptno=26429277[26429277]
+** Effort to validate this goals SR request. It failed. Requested sail to make necessory changes.
+
+***
